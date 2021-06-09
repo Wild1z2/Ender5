@@ -1,4 +1,4 @@
 # Ender5
 Ender 5
 Skirt, Frame and Corexy Mods
-https://photos.app.goo.gl/Z2eGVHJRJddqSW8f8
+https://github.com/Wild1z2/Ender5/blob/Rear_Electronics_Skirt/images/Skirt%20Render_Bom.png
