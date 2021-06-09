@@ -1,4 +1,3 @@
 # Ender5
 Ender 5
-Klipper configuration. 
-Frame and Corexy Mods
+Skirt, Frame and Corexy Mods
