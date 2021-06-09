@@ -1,5 +1,5 @@
 # Ender5
-Ender 5 Skirt, Frame and Corexy Mods
+Ender 5 Modular Skirt.
 
 The Skirt!  Rear mounted and Modular.  (Can also be mounted on the bottom of the machine but you will need to print (4 Each) foot standoffs and use the Voron rubber style feet.) 
 
