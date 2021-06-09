@@ -7,6 +7,6 @@ IEC filtered outlet was the same part used on the Voron sourcing guide.  https:/
 
 You can reuse the E5 switch.
 
-https://github.com/Wild1z2/Ender5/blob/Rear_Electronics_Skirt/images/Skirt%20Render_Bom_RevB.png
+
 ![GitHub Logo](/images/Skirt%20Render_Bom_RevB.png)
 
